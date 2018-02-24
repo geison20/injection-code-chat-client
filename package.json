@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/geison20/injection-code-chat-client#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "gulp": "^3.9.1",
+    "gulp-awspublish": "^3.3.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-uglify": "^3.0.0",
+    "pump": "^3.0.0"
   }
 }
