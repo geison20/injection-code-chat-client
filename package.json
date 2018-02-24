@@ -1,0 +1,22 @@
+{
+  "name": "injection-code-chat-client",
+  "version": "1.0.0",
+  "description": "injection code in html",
+  "main": "injection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geison20/injection-code-chat-client.git"
+  },
+  "author": "Geisson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geison20/injection-code-chat-client/issues"
+  },
+  "homepage": "https://github.com/geison20/injection-code-chat-client#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
