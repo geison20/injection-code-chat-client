@@ -6,7 +6,7 @@ const rename = require("gulp-rename");
 const s3 = require("gulp-s3-upload")({
     accessKeyId: process.env.ACCESS_KEY_ID,
     secretAccessKey: process.env.SECRET_ACCESS_KEY,
-    maxRetries: 5
+    maxRetries: 10
 });
 
 gulp.task("js", function (cb) {
